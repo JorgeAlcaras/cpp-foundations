@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'1.-Fahrenheit to Celsius 2.-Celsius to Fahrenheit'
+5
+1
+6
+option
+7
+1
+1
+8
+option=1
+4
+1
+33
+'Give me the degrees Fahrenheits'
+5
+1
+10
+fahrenheit
+6
+1
+11
+temperature
+19
+5/9*(fahrenheit-32)
+4
+1
+44
+'The temperature is the ', temperature, 'ºC'
+13
+7
+1
+1
+8
+option=2
+4
+1
+29
+'Give me the degrees Celsius'
+5
+1
+7
+celsius
+6
+1
+11
+temperature
+14
+9*celsius/5+32
+4
+1
+44
+'The temperature is the ', temperature, 'ºF'
+13
+4
+1
+17
+'Ta tontito mijo'
+13
+13
+1
